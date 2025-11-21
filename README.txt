@@ -16,7 +16,7 @@ Features
 • Python-Dotenv
  Setup and Installation 
 
- Clone the repository (or download the files)-1
+1-Clone the repository (or download the files)
 
 git clone <your-repo-link>
 cd your-project-folder
@@ -41,7 +41,8 @@ python main.py
 
 Type your message and press Enter
 
- Type exit or stop or bye to end the chat
+Type exit or stop or bye to end the chat
+
 
 
 Developed by [aziz]
